@@ -1,20 +1,12 @@
-<!-- ========================================================= -->
-<!--                    ANIMATED HEADER                        -->
-<!-- ========================================================= -->
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="header-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="header-light.png">
-    <img src="header-light.png" alt="">
+    <img src="header-light.png" alt="Anya Sinha">
   </picture>
 </p>
 
 <br>
-
-<!-- ========================================================= -->
-<!--                         INTRO                             -->
-<!-- ========================================================= -->
 
 <h1 align="center">
   Hey there, I'm Anya! ♡
@@ -23,107 +15,98 @@
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=20&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&width=700&lines=Data+Science+%26+Business+Administration+Student;Marketing+Analytics+Enthusiast;Turning+Data+Into+Decisions;Always+Learning%2C+Always+Building"
-    alt=""
-  />
+    alt="Typing animation"
+  >
 </p>
 
 <br>
-
-<!-- ========================================================= -->
-<!--                       PROFILE BADGES                      -->
-<!-- ========================================================= -->
 
 <p align="center">
 
   <img
     src="https://komarev.com/ghpvc/?username=anyasinha&label=PROFILE%20VIEWS&color=EF93C4&style=flat-square"
-    alt=""
-  />
+    alt="Profile views"
+  >
 
   &nbsp;
 
   <img
     src="https://img.shields.io/github/followers/anyasinha?label=FOLLOWERS&style=flat-square&color=F8BBD0&labelColor=EF93C4"
-    alt=""
-  />
+    alt="Followers"
+  >
 
   &nbsp;
 
   <img
     src="https://img.shields.io/github/stars/anyasinha?label=STARS&style=flat-square&color=FF69B4&labelColor=EF93C4"
-    alt=""
-  />
+    alt="Stars"
+  >
 
 </p>
 
 <br>
-
-<!-- ========================================================= -->
-<!--                       ABOUT ME                            -->
-<!-- ========================================================= -->
+<br>
 
 <h2 align="center">🌸 About Me</h2>
 
 <br>
 
 <table align="center" width="90%" border="0">
-<tr>
-<td width="65%" valign="middle">
+  <tr>
 
-<h3>Hi, I'm Anya! ♡</h3>
+    <td width="65%" valign="middle">
 
-<p>
-I'm a <b>Data Science & Business Administration</b> student passionate
-about combining technology, analytics, and business strategy.
-</p>
+      <h3>Hi, I'm Anya! ♡</h3>
 
-<p>
-I'm currently pursuing a dual-degree path involving
-<b>Data Science, Business Administration, and Management Information Systems</b>,
-with a growing interest in <b>Marketing Analytics</b>.
-</p>
+      <p>
+        I'm a <b>Data Science & Business Administration</b> student
+        passionate about combining technology, analytics, and business strategy.
+      </p>
 
-<p>I love working at the intersection of:</p>
+      <p>
+        I'm currently pursuing a dual-degree path involving
+        <b>Data Science, Business Administration, and Management Information Systems</b>,
+        with a growing interest in <b>Marketing Analytics</b>.
+      </p>
 
-<ul>
-  <li>📊 Data Science & Machine Learning</li>
-  <li>💼 Business & Strategy</li>
-  <li>📣 Marketing Analytics</li>
-  <li>💻 Technology & Information Systems</li>
-  <li>🌱 Data-driven problem solving</li>
-</ul>
+      <p>I love working at the intersection of:</p>
 
-<p>
-I'm particularly interested in transforming messy datasets
-into insights that people can actually use.
-</p>
+      <ul>
+        <li>📊 Data Science & Machine Learning</li>
+        <li>💼 Business & Strategy</li>
+        <li>📣 Marketing Analytics</li>
+        <li>💻 Technology & Information Systems</li>
+        <li>🌱 Data-driven problem solving</li>
+      </ul>
 
-<br>
+      <p>
+        I'm particularly interested in transforming messy datasets
+        into insights that people can actually use.
+      </p>
 
-<p>
-<i>"Turning data into decisions, one model at a time."</i>
-</p>
+      <br>
 
-</td>
+      <p>
+        <i>"Turning data into decisions, one model at a time."</i>
+      </p>
 
-<td width="35%" align="center" valign="middle">
+    </td>
 
-<img
-  src="social-media-dark.png"
-  width="100%"
-  alt=""
-/>
+    <td width="35%" align="center" valign="middle">
 
-</td>
-</tr>
+      <img
+        src="social-media-dark.png"
+        width="100%"
+        alt="Anya"
+      >
+
+    </td>
+
+  </tr>
 </table>
 
 <br>
 <br>
-
-<!-- ========================================================= -->
-<!--                    GITHUB ANALYTICS                       -->
-<!-- ========================================================= -->
 
 <h2 align="center">📈 GitHub Analytics</h2>
 
@@ -134,16 +117,16 @@ into insights that people can actually use.
   <img
     src="https://github-readme-stats.vercel.app/api?username=anyasinha&show_icons=true&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=888888&ring_color=F8BBD0"
     height="180"
-    alt=""
-  />
+    alt="GitHub Stats"
+  >
 
   &nbsp;&nbsp;
 
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=anyasinha&layout=compact&hide_border=true&bg_color=00000000&title_color=EF93C4&text_color=888888&langs_count=8"
     height="180"
-    alt=""
-  />
+    alt="Top Languages"
+  >
 
 </p>
 
@@ -154,8 +137,8 @@ into insights that people can actually use.
   <img
     src="https://streak-stats.demolab.com?user=anyasinha&theme=transparent&hide_border=true&ring=FF69B4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&dates=888888&currStreakNum=FF69B4&sideNums=EF93C4"
     width="700"
-    alt=""
-  />
+    alt="GitHub Streak"
+  >
 
 </p>
 
@@ -166,17 +149,13 @@ into insights that people can actually use.
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=anyasinha&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&area_color=EF93C4&hide_border=true&custom_title=Anya%27s%20Contribution%20Graph"
     width="95%"
-    alt=""
-  />
+    alt="Contribution Activity Graph"
+  >
 
 </p>
 
 <br>
 <br>
-
-<!-- ========================================================= -->
-<!--                  CONTRIBUTION SNAKE                       -->
-<!-- ========================================================= -->
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
@@ -184,32 +163,16 @@ into insights that people can actually use.
 
 <p align="center">
 
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/anyasinha/anyasinha/output/github-contribution-grid-snake-dark.svg"
-    >
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/anyasinha/anyasinha/output/github-contribution-grid-snake.svg"
-    >
-
-    <img
-      src="https://raw.githubusercontent.com/anyasinha/anyasinha/output/github-contribution-grid-snake.svg"
-      width="90%"
-      alt=""
-    >
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/anyasinha/anyasinha/output/github-contribution-grid-snake.svg"
+    width="90%"
+    alt="GitHub Contribution Snake"
+  >
 
 </p>
 
 <br>
 <br>
-
-<!-- ========================================================= -->
-<!--                       CONNECT                             -->
-<!-- ========================================================= -->
 
 <h2 align="center">💌 Let's Connect</h2>
 
@@ -246,10 +209,6 @@ into insights that people can actually use.
 
 <br>
 <br>
-
-<!-- ========================================================= -->
-<!--                         FOOTER                            -->
-<!-- ========================================================= -->
 
 <p align="center">
   <img
