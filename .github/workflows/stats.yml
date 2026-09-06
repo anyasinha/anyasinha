@@ -23,29 +23,47 @@ jobs:
         run: mkdir -p assets
 
       - name: Generate GitHub Stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          curl -L "https://github-readme-stats.vercel.app/api?username=anyasinha&show_icons=true&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=888888&ring_color=F8BBD0" \
-          -o assets/github-stats.svg
+          curl -fL \
+            -H "Accept: image/svg+xml" \
+            "https://github-readme-stats.vercel.app/api?username=anyasinha&show_icons=true&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=888888&ring_color=F8BBD0&token=${GITHUB_TOKEN}" \
+            -o assets/github-stats.svg
 
       - name: Generate Top Languages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          curl -L "https://github-readme-stats.vercel.app/api/top-langs/?username=anyasinha&layout=compact&hide_border=true&bg_color=00000000&title_color=EF93C4&text_color=888888&langs_count=8" \
-          -o assets/top-languages.svg
+          curl -fL \
+            -H "Accept: image/svg+xml" \
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=anyasinha&layout=compact&hide_border=true&bg_color=00000000&title_color=EF93C4&text_color=888888&langs_count=8&token=${GITHUB_TOKEN}" \
+            -o assets/top-languages.svg
 
       - name: Generate GitHub Streak
         run: |
-          curl -L "https://streak-stats.demolab.com?user=anyasinha&theme=transparent&hide_border=true&ring=FF69B4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&dates=888888&currStreakNum=FF69B4&sideNums=EF93C4" \
-          -o assets/streak.svg
+          curl -fL \
+            "https://streak-stats.demolab.com?user=anyasinha&theme=transparent&hide_border=true&ring=FF69B4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&dates=888888&currStreakNum=FF69B4&sideNums=EF93C4" \
+            -o assets/streak.svg
 
       - name: Generate Activity Graph
         run: |
-          curl -L "https://github-readme-activity-graph.vercel.app/graph?username=anyasinha&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&area_color=EF93C4&hide_border=true&custom_title=Anya%27s%20Contribution%20Graph" \
-          -o assets/activity.svg
+          curl -fL \
+            "https://github-readme-activity-graph.vercel.app/graph?username=anyasinha&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&area_color=EF93C4&hide_border=true&custom_title=Anya%27s%20Contribution%20Graph" \
+            -o assets/activity.svg
+
+      - name: Verify generated files
+        run: |
+          echo "Generated files:"
+          ls -lh assets/
+          echo ""
+          echo "File types:"
+          file assets/*.svg
 
       - name: Commit generated images
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add assets/
+          git add assets/*.svg
           git diff --cached --quiet || git commit -m "Update GitHub analytics"
           git push
