@@ -85,21 +85,21 @@ I'm particularly interested in transforming messy datasets into insights that pe
 <br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anyasinha&show_icons=true&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=888888&ring_color=F8BBD0" height="180" alt="GitHub Stats">
+<img src="assets/github-stats.svg" height="180" alt="GitHub Stats">
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anyasinha&layout=compact&hide_border=true&bg_color=00000000&title_color=EF93C4&text_color=888888&langs_count=8" height="180" alt="Top Languages">
+<img src="assets/top-languages.svg" height="180" alt="Top Languages">
 </p>
 
 <br>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=anyasinha&theme=transparent&hide_border=true&ring=FF69B4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&dates=888888&currStreakNum=FF69B4&sideNums=EF93C4" width="700" alt="GitHub Streak">
+<img src="assets/streak.svg" width="700" alt="GitHub Streak">
 </p>
 
 <br>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anyasinha&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&area_color=EF93C4&hide_border=true&custom_title=Anya%27s%20Contribution%20Graph" width="95%" alt="Contribution Activity Graph">
+<img src="assets/activity.svg" width="95%" alt="Contribution Activity Graph">
 </p>
 
 <br>
