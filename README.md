@@ -131,55 +131,6 @@ I'm particularly interested in transforming messy datasets into
 <br>
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                       TECH STACK                              -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<div align="center">
-
-<h3>Languages</h3>
-
-<img
-  src="https://skillicons.dev/icons?i=python,java,mysql,r"
-  height="55"
-  alt="Programming Languages">
-
-<br><br>
-
-<h3>Data Science & Analytics</h3>
-
-<img
-  src="https://skillicons.dev/icons?i=numpy,pandas,sklearn"
-  height="55"
-  alt="Data Science">
-
-<br><br>
-
-<h3>Tools & Platforms</h3>
-
-<img
-  src="https://skillicons.dev/icons?i=git,github,vscode,aws"
-  height="55"
-  alt="Development Tools">
-
-<br><br>
-
-<img
-  src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"
-  alt="Tableau">
-
-&nbsp;
-
-<img
-  src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"
-  alt="Excel">
-
-</div>
-
-<br>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!--                      GITHUB ANALYTICS                         -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
@@ -187,41 +138,39 @@ I'm particularly interested in transforming messy datasets into
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=anyasinha&show_icons=true&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=808080&ring_color=F8BBD0&count_private=true"
-  height="180"
-  alt="GitHub Stats">
+<a href="https://github.com/anyasinha">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=anyasinha&show_icons=true&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=808080&ring_color=F8BBD0&count_private=true"
+    height="180"
+    alt="GitHub Stats">
+</a>
 
 &nbsp;&nbsp;
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anyasinha&layout=compact&hide_border=true&bg_color=00000000&title_color=EF93C4&text_color=808080&langs_count=8"
-  height="180"
-  alt="Top Languages">
+<a href="https://github.com/anyasinha">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anyasinha&layout=compact&hide_border=true&bg_color=00000000&title_color=EF93C4&text_color=808080&langs_count=8"
+    height="180"
+    alt="Top Languages">
+</a>
 
 <br><br>
 
-<img
-  src="https://streak-stats.demolab.com?user=anyasinha&theme=transparent&hide_border=true&ring=FF69B4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&dates=888888&currStreakNum=FF69B4&sideNums=EF93C4"
-  width="70%"
-  alt="GitHub Streak">
+<a href="https://github.com/anyasinha">
+  <img
+    src="https://streak-stats.demolab.com?user=anyasinha&theme=transparent&hide_border=true&ring=FF69B4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&dates=888888&currStreakNum=FF69B4&sideNums=EF93C4"
+    width="70%"
+    alt="GitHub Streak">
+</a>
 
-</div>
+<br><br>
 
-<br>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                     ACTIVITY GRAPH                            -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-<h2 align="center">🌷 Contribution Activity</h2>
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=anyasinha&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&area_color=EF93C4&hide_border=true&custom_title=Anya's%20Contribution%20Graph"
-  width="95%"
-  alt="Contribution Activity Graph">
+<a href="https://github.com/anyasinha">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=anyasinha&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&area_color=EF93C4&hide_border=true&custom_title=Anya's%20Contribution%20Graph"
+    width="95%"
+    alt="Contribution Activity Graph">
+</a>
 
 </div>
 
