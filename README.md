@@ -138,39 +138,31 @@ I'm particularly interested in transforming messy datasets into
 
 <div align="center">
 
-<a href="https://github.com/anyasinha">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=anyasinha&show_icons=true&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=808080&ring_color=F8BBD0&count_private=true"
-    height="180"
-    alt="GitHub Stats">
-</a>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=anyasinha&show_icons=true&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=808080&ring_color=F8BBD0"
+  height="180"
+  alt="Anya's GitHub Statistics">
 
 &nbsp;&nbsp;
 
-<a href="https://github.com/anyasinha">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anyasinha&layout=compact&hide_border=true&bg_color=00000000&title_color=EF93C4&text_color=808080&langs_count=8"
-    height="180"
-    alt="Top Languages">
-</a>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anyasinha&layout=compact&hide_border=true&bg_color=00000000&title_color=EF93C4&text_color=808080&langs_count=8"
+  height="180"
+  alt="Anya's Top Languages">
 
 <br><br>
 
-<a href="https://github.com/anyasinha">
-  <img
-    src="https://streak-stats.demolab.com?user=anyasinha&theme=transparent&hide_border=true&ring=FF69B4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&dates=888888&currStreakNum=FF69B4&sideNums=EF93C4"
-    width="70%"
-    alt="GitHub Streak">
-</a>
+<img
+  src="https://streak-stats.demolab.com?user=anyasinha&theme=transparent&hide_border=true&ring=FF69B4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&dates=888888&currStreakNum=FF69B4&sideNums=EF93C4"
+  width="70%"
+  alt="Anya's GitHub Streak">
 
 <br><br>
 
-<a href="https://github.com/anyasinha">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=anyasinha&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&area_color=EF93C4&hide_border=true&custom_title=Anya's%20Contribution%20Graph"
-    width="95%"
-    alt="Contribution Activity Graph">
-</a>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=anyasinha&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&area_color=EF93C4&hide_border=true&custom_title=Anya's%20Contribution%20Graph"
+  width="95%"
+  alt="Anya's Contribution Activity">
 
 </div>
 
@@ -197,13 +189,11 @@ I'm particularly interested in transforming messy datasets into
   <img
     src="https://raw.githubusercontent.com/anyasinha/anyasinha/output/github-contribution-grid-snake.svg"
     width="95%"
-    alt="GitHub Contribution Snake">
+    alt="Anya's GitHub Contribution Snake">
 
 </picture>
 
 </div>
-
-<!--
 ╔══════════════════════════════════════════════════════════════╗
                      SNAKE GITHUB ACTION
 ╚══════════════════════════════════════════════════════════════╝
